@@ -2,7 +2,7 @@ name: zen_browse
 description: A new Flutter project.
 
 environment:
-  sdk: '^3.5.0'  # Version SDK Dart compatible
+  sdk: '^3.5.3'  # Version SDK Dart compatible
 
 dependencies:
   flutter:
