@@ -2,7 +2,7 @@ name: zen_browse
 description: A new Flutter project.
 
 environment:
-  sdk: '>=2.17.0 <4.0.0'  # Contrainte de version SDK Dart
+  sdk: ">=2.17.0 <4.0.0"  # Contrainte de version SDK Dart
 
 dependencies:
   flutter:
