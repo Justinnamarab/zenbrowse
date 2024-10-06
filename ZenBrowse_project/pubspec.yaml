@@ -1,0 +1,8 @@
+
+name: zen_browse
+description: A new Flutter project.
+
+dependencies:
+  flutter:
+    sdk: flutter
+  webview_flutter: ^3.0.4
