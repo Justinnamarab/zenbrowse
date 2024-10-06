@@ -2,9 +2,16 @@ name: zen_browse
 description: A new Flutter project.
 
 environment:
-  sdk: '^3.5.3'  # Version SDK Dart compatible
+  sdk: ">=3.0.0 <4.0.0"
 
 dependencies:
   flutter:
     sdk: flutter
   webview_flutter: ^3.0.4
+
+  dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
